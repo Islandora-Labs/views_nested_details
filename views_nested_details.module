@@ -5,6 +5,7 @@
  * Contains views_nested_details.module.
  */
 
+use Drupal\Core\Routing\RouteMatchInterface;
 use Drupal\Core\Template\Attribute;
 use Drupal\islandora\IslandoraUtils;
 
