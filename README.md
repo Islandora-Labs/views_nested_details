@@ -1,6 +1,6 @@
 # views_nested_details
 
-This Drupal module provides an accordian view field formatter (Nested Details) for grouped content such as newspapers.
+This Drupal module provides an accordian view field formatter (Nested Details) for content such as newspaper issues.
 
 In Islandora, create a contextual view to get issues of a particular newspaper. In that contextual view, you need the issue date information.
 
