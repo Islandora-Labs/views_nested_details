@@ -8,3 +8,4 @@ After this, you need to place the block to appear on the newspapers. This is pla
 
 In order to have this appear for your newspaper, the model needs to be set as "Newspaper." Issues should have the model "Publication Issue"
 
+Additional Info: https://docs.lefaive.ca/wiki/Views_Nested_Details_(Drupal_module)
