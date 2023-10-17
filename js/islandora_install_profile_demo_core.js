@@ -11,7 +11,7 @@
         return response;
       }
 
-      $('select[name="sort_order"]').once('islandora_install_profile_demo_core_actions').change(function () {
+      $(once('islandora_install_profile_demo_core_actions','select[name="sort_order"]')).change(function () {
         // Grab ALL elements from the URL and re-use them with this one request
         let existing_parameters = unserialize(location.search.slice(1));
         let selected_option = 'select[name="sort_order"] option[value="' + $(this).val() + '"]';
