@@ -6,6 +6,6 @@ mystic_behaviors:
       css/islandora_install_profile_demo_core.css: { }
   dependencies:
     - core/jquery
-    - core/jquery.once
+    - core/once
     - core/drupal.ajax
     - core/views.ajax
